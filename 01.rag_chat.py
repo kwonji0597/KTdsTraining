@@ -5,6 +5,7 @@ import streamlit as st
 
 # streamlit run .\01.rag_chat.py
 
+
 load_dotenv()
 
 # Get environment variables

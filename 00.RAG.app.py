@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from openai import AzureOpenAI
 
+
 def main():
     os.system('cls' if os.name == 'nt' else 'clear') # 리눅스와 맥에서는 'clear' 지만 윈도우면 cls 라서 if문 해줌
     load_dotenv() #환경변수 읽어들이는 작업
