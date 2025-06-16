@@ -45,6 +45,12 @@ KTdsTraining/
 git clone https://github.com/kwonji0597/KTdsTraining.git
 cd KTdsTraining
 ```
+## 🚀 실행 화면 (01.rag_chat.py)
+![alt text](image.png)
+
+## 🚀 실행 화면 (00.RAG.app.py)
+![alt text](image-1.png)
+
 
 ### 2️⃣ 가상환경 생성 (선택)
 ```
